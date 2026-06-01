@@ -1,7 +1,7 @@
 # Task 3: Type Conversion
 # Run this file using the command: python task3_type_conversion.py
 
-# 📝 Instructions:
+# Instructions:
 # Take two numbers from the user as strings (raw input), 
 # then explicitly convert them to integers and display their sum.
 

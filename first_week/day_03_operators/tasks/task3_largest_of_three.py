@@ -1,7 +1,7 @@
 # Task 3: Largest of 3 Numbers
 # Run this file using the command: python task3_largest_of_three.py
 
-# 📝 Instructions:
+# Instructions:
 # Accept three numbers from the user and find the largest number using comparison/logical operators.
 
 # ----------------- Write Your Code Below -----------------
@@ -12,11 +12,11 @@ num3 = int(input("Enter third number: "))
 
 # Logic to find the largest
 if num1 >= num2 and num1 >= num3:
-    largest = num1
+  largest = num1
 elif num2 >= num1 and num2 >= num3:
-    largest = num2
+  largest = num2
 else:
-    largest = num3
+  largest = num3
 
 print("Largest is", largest)
 

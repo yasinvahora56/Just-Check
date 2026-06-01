@@ -1,7 +1,7 @@
 # Task 5: Pattern Printing
 # Run this file using the command: python task5_pattern.py
 
-# 📝 Instructions:
+# Instructions:
 # Write a program to print the following 3x5 asterisk pattern:
 # *****
 # *****

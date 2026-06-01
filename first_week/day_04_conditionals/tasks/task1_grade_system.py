@@ -1,7 +1,7 @@
 # Task 1: Grade System
 # Run this file using the command: python task1_grade_system.py
 
-# 📝 Instructions:
+# Instructions:
 # Take marks as input from the user (out of 100).
 # Print grades based on the following:
 # Marks >= 90 -> Grade A
@@ -14,13 +14,13 @@
 marks = int(input("Enter Marks: "))
 
 if marks >= 90:
-    grade = "A"
+  grade = "A"
 elif marks >= 80:
-    grade = "B"
+  grade = "B"
 elif marks >= 70:
-    grade = "C"
+  grade = "C"
 else:
-    grade = "F"
+  grade = "F"
 
 print("Grade:", grade)
 

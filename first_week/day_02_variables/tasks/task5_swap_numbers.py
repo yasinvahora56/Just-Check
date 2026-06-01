@@ -1,7 +1,7 @@
 # Task 5: Swap Two Numbers
 # Run this file using the command: python task5_swap_numbers.py
 
-# 📝 Instructions:
+# Instructions:
 # Swap the values of two variables (a and b) without using a third variable.
 
 # ----------------- Write Your Code Below -----------------

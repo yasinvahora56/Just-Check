@@ -1,7 +1,7 @@
 # Task 3: Personal Info Program
 # Run this file using the command: python task3_personal_info.py
 
-# 📝 Instructions:
+# Instructions:
 # Write a program to print your:
 # 1. Name
 # 2. Course

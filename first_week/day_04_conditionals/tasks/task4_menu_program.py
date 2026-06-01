@@ -1,7 +1,7 @@
 # Task 4: Menu Program
 # Run this file using the command: python task4_menu_program.py
 
-# 📝 Instructions:
+# Instructions:
 # Present a simple mathematical menu to the user:
 # 1. Add
 # 2. Subtract
@@ -19,10 +19,10 @@ num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
 if choice == 1:
-    result = num1 + num2
-    print(f"Result: {int(result)}")
+  result = num1 + num2
+  print(f"Result: {int(result)}")
 elif choice == 2:
-    result = num1 - num2
-    print(f"Result: {int(result)}")
+  result = num1 - num2
+  print(f"Result: {int(result)}")
 else:
-    print("Invalid Choice")
+  print("Invalid Choice")

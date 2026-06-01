@@ -1,7 +1,7 @@
 # Task 4: Simple Interest Calculator
 # Run this file using the command: python task4_simple_interest.py
 
-# 📝 Instructions:
+# Instructions:
 # Prompt the user for:
 # - Principal amount (P)
 # - Rate of interest (R)

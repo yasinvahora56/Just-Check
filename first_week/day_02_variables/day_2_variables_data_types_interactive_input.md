@@ -1,35 +1,35 @@
-# 📦 Day 2: Variables, Data Types & Interactive Input
+# Day 2: Variables, Data Types & Interactive Input
 
 Welcome to Day 2! Today we learn how a program remembers data, handles different types of information, and interacts dynamically with users.
 
 ---
 
-## 📖 Topics to Learn
+## Topics to Learn
 
 ### 1. What are Variables?
 Think of a **variable** as a named storage box (container) inside your computer's memory. You can store data inside it, change its value later, and reference it by its name.
 * **Naming Rules in Python**:
-  * Must start with a letter or an underscore (`_`).
-  * Cannot start with a number.
-  * Can only contain alphanumeric characters and underscores (`a-z`, `A-Z`, `0-9`, and `_`).
-  * Variable names are case-sensitive (`age`, `Age`, and `AGE` are three different variables).
+ * Must start with a letter or an underscore (`_`).
+ * Cannot start with a number.
+ * Can only contain alphanumeric characters and underscores (`a-z`, `A-Z`, `0-9`, and `_`).
+ * Variable names are case-sensitive (`age`, `Age`, and `AGE` are three different variables).
 
 ```python
-x = 10      # 'x' is a variable storing the value 10
+x = 10   # 'x' is a variable storing the value 10
 name = "John" # 'name' is a variable storing the text "John"
 ```
 
-#### 💡 Dynamic Typing Comparison
+#### Dynamic Typing Comparison
 In many programming languages (like **C++, Java**), you must declare the **type** of a variable before using it. In **Python**, you don't need to specify types.
 
-##### ☕ Java / C++ (Statically Typed):
+##### Java / C++ (Statically Typed):
 ```java
 int age = 20;
 String name = "Rahul";
 double salary = 45000.50;
 ```
 
-##### 🐍 Python (Dynamically Typed):
+##### Python (Dynamically Typed):
 ```python
 age = 20
 name = "Rahul"
@@ -51,7 +51,7 @@ Python automatically detects the type of data stored. The main data types are:
 
 To check the data type of a variable, use the `type()` function:
 ```python
-print(type(45))  # Output: <class 'int'>
+print(type(45)) # Output: <class 'int'>
 ```
 
 ---
@@ -82,7 +82,7 @@ print("Next year you will be:", age + 1)
 
 ---
 
-## 📂 Practice Tasks
+## Practice Tasks
 Go to the [tasks/](./tasks/) folder to complete today's assignments:
 * [Task 1: Input and Output](./tasks/task1_input_output.py)
 * [Task 2: Calculator (Input Based)](./tasks/task2_calculator.py)

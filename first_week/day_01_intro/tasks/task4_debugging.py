@@ -1,7 +1,7 @@
 # Task 4: Debugging Challenge
 # Run this file using the command: python task4_debugging.py
 
-# 📝 Instructions:
+# Instructions:
 # Identify and fix the errors in the following two lines of code:
 #
 # BUGGY LINE 1: print("Hello)

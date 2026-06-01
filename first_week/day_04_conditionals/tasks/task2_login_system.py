@@ -1,7 +1,7 @@
 # Task 2: Login System
 # Run this file using the command: python task2_login_system.py
 
-# 📝 Instructions:
+# Instructions:
 # Create predefined variables for correct username and password.
 # Prompt the user for input and verify both. 
 # Print "Login Successful" or "Login Failed".
@@ -15,9 +15,9 @@ username = input("Enter username: ")
 password = input("Enter password: ")
 
 if username == CORRECT_USERNAME and password == CORRECT_PASSWORD:
-    print("Login Successful")
+  print("Login Successful")
 else:
-    print("Login Failed")
+  print("Login Failed")
 
 # ---------------------------------------------------------
 # Expected Output (Successful):

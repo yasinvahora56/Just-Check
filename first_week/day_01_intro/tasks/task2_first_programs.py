@@ -1,7 +1,7 @@
 # Task 2: First Programs
 # Run this file using the command: python task2_first_programs.py
 
-# 📝 Instructions:
+# Instructions:
 # Write Python statements to print "Hello World", "Welcome to Python", and the sum of 10 and 20.
 
 # ----------------- Write Your Code Below -----------------

@@ -1,4 +1,4 @@
-# 🏆 Graduation Mini-Projects Guide
+# Graduation Mini-Projects Guide
 
 If you've finished the Smart Calculator, it is time to build one of these 10 mini-projects to reinforce what you've learned. You can choose any of these or work in a team!
 
@@ -7,18 +7,18 @@ If you've finished the Smart Calculator, it is time to build one of these 10 min
 ### 1. Temperature Converter
 * **Description**: A tool to convert temperature values back and forth.
 * **Flow**:
-  1. Prompt user: "Convert from (1) Celsius to Fahrenheit or (2) Fahrenheit to Celsius".
-  2. Input temperature.
-  3. Formula: $F = (C \times 9/5) + 32$ or $C = (F - 32) \times 5/9$.
-  4. Display converted value.
+ 1. Prompt user: "Convert from (1) Celsius to Fahrenheit or (2) Fahrenheit to Celsius".
+ 2. Input temperature.
+ 3. Formula: $F = (C \times 9/5) + 32$ or $C = (F - 32) \times 5/9$.
+ 4. Display converted value.
 
 ---
 
 ### 2. Simple & Compound Interest Calculator
 * **Description**: Compute both simple and compound interests side-by-side.
 * **Formula**:
-  * $SI = (P \times R \times T) / 100$
-  * $CI = P \times (1 + R/100)^T - P$
+ * $SI = (P \times R \times T) / 100$
+ * $CI = P \times (1 + R/100)^T - P$
 * **Flow**: Take inputs $P$, $R$, and $T$ from the user and print both outcomes.
 
 ---
@@ -44,9 +44,9 @@ If you've finished the Smart Calculator, it is time to build one of these 10 min
 ### 6. Password Strength Checker
 * **Description**: Analyze password security.
 * **Criteria**: Check if user password:
-  1. Length is >= 8 characters.
-  2. Contains at least 1 digit (hint: search password string for numbers).
-  3. Contains special characters.
+ 1. Length is >= 8 characters.
+ 2. Contains at least 1 digit (hint: search password string for numbers).
+ 3. Contains special characters.
 * **Flow**: Print strength status: "Weak", "Medium", or "Strong".
 
 ---
@@ -60,9 +60,9 @@ If you've finished the Smart Calculator, it is time to build one of these 10 min
 ### 8. Unit Converter
 * **Description**: Convert units.
 * **Options**:
-  * Kilometers to Miles ($1\text{ km} = 0.621371\text{ miles}$)
-  * Celsius to Fahrenheit
-  * Kilograms to Pounds ($1\text{ kg} = 2.20462\text{ lbs}$)
+ * Kilometers to Miles ($1\text{ km} = 0.621371\text{ miles}$)
+ * Celsius to Fahrenheit
+ * Kilograms to Pounds ($1\text{ kg} = 2.20462\text{ lbs}$)
 
 ---
 

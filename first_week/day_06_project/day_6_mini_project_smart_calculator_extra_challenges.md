@@ -1,13 +1,13 @@
-# 🏆 Day 6: Mini Project – Smart Calculator & Extra Challenges
+# Day 6: Mini Project – Smart Calculator & Extra Challenges
 
 Welcome to Day 6! Today is your graduation day for the first week. You will combine variables, user input, operators, logical conditionals, error prevention, and loops to build fully interactive, production-style console applications.
 
 ---
 
-## 🎯 Main Project: Smart Calculator
+## Main Project: Smart Calculator
 Create a menu-driven, loop-based smart calculator that executes indefinitely until the user decides to exit.
 
-### 🌟 Key Features:
+### Key Features:
 1. **Menu Interface**: Present options for operations: `1. Add`, `2. Subtract`, `3. Multiply`, `4. Divide`, `5. Exit`.
 2. **Interactive Loop**: After performing an operation, keep displaying the menu so the user can make another calculation without restarting the script.
 3. **Smart Division**: Avoid crash on division by zero by printing an error message if the denominator is `0`.
@@ -15,14 +15,14 @@ Create a menu-driven, loop-based smart calculator that executes indefinitely unt
 
 ---
 
-## 📂 Practice Deliverables
+## Practice Deliverables
 Navigate to the [tasks/](./tasks/) folder to complete today's assignments:
 * [Smart Calculator Script File](./tasks/smart_calculator.py)
 * [10 Additional Mini Projects Guide](./tasks/extra_projects_info.md)
 
 ---
 
-## 🏆 Additional Mini Projects Dashboard
+## Additional Mini Projects Dashboard
 You can choose from these options or work in groups:
 
 1. **Temperature Converter**: Convert temperature dynamically between Celsius and Fahrenheit.

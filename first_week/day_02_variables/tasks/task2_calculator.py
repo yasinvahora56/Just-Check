@@ -1,7 +1,7 @@
 # Task 2: Calculator (Input Based)
 # Run this file using the command: python task2_calculator.py
 
-# 📝 Instructions:
+# Instructions:
 # Prompt the user to enter two numbers.
 # Perform type casting to float or int.
 # Print their Sum, Difference, and Product.

@@ -1,7 +1,7 @@
 # Task 1: Basic Operations
 # Run this file using the command: python task1_basic_operations.py
 
-# 📝 Instructions:
+# Instructions:
 # Ask the user for two numbers, perform Addition, Subtraction, Multiplication, and Division, and print outputs.
 
 # ----------------- Write Your Code Below -----------------

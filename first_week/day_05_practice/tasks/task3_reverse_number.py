@@ -1,7 +1,7 @@
 # Task 3: Reverse a Number
 # Run this file using the command: python task3_reverse_number.py
 
-# 📝 Instructions:
+# Instructions:
 # Accept a multi-digit number (e.g. 1234) from the user and print its reverse (e.g. 4321).
 
 # ----------------- Write Your Code Below -----------------
@@ -17,9 +17,9 @@ num_val = int(number)
 rev_val = 0
 
 while num_val > 0:
-    last_digit = num_val % 10
-    rev_val = (rev_val * 10) + last_digit
-    num_val = num_val // 10
+  last_digit = num_val % 10
+  rev_val = (rev_val * 10) + last_digit
+  num_val = num_val // 10
 
 print("Reversed (Mathematical):", rev_val)
 
